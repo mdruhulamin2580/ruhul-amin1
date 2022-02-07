@@ -15,6 +15,7 @@
     padding: 19px;
     border-radius: 6px;
     margin: 23px;
+    margin-bottom: ;
 }
 .ankor a {
     font-size: 34px;
@@ -38,7 +39,7 @@
     height: 2px;
     width: 400px;
     background-color: rgba(61, 58, 58, 0.459);
-    margin-top: 39px;
+    margin-top: 14px;
 }
 .bb {
     color: #fffbf3;
